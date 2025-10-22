@@ -1,0 +1,5 @@
+{
+  "name": "AI Banner Ad Generator",
+  "description": "Generate high-quality banner ads in all standard sizes from a simple product description and URL using Google's Gemini and Imagen models.",
+  "requestFramePermissions": []
+}
